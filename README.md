@@ -1,0 +1,1 @@
+Flexbox; js slider; page adaptation;
